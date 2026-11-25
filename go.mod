@@ -2,7 +2,7 @@ module github.com/canavan-a/music-bot-super-chat
 
 go 1.26.7
 
-require github.com/canavan-a/super-chat/shared v0.0.0
+require github.com/canavan-a/super-chat/shared v0.0.0-20261125223450-1791c7841d4c
 
 require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
@@ -40,7 +40,3 @@ require (
 	modernc.org/memory v1.11.0 // indirect
 	modernc.org/sqlite v1.57.0 // indirect
 )
-
-// While developing against an unpushed SDK. Removed before release: the flake
-// builds against the published module.
-replace github.com/canavan-a/super-chat/shared => ../super-chat/shared

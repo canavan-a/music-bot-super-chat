@@ -1,3 +1,5 @@
+github.com/canavan-a/super-chat/shared v0.0.0-20261125223450-1791c7841d4c h1:L4z/yp1hW7yV+iE/xmF3d9+zJULHp0xfK/SjMlA+cKU=
+github.com/canavan-a/super-chat/shared v0.0.0-20261125223450-1791c7841d4c/go.mod h1:gQQLEwWcx3IDbvTUjwQ2YJTAI2oc4uSw8rm/WCDsg4k=
 github.com/dustin/go-humanize v1.0.1 h1:GzkhY7T5VNhEkwH0PVJgjz+fX1rhBrR7pRT3mDkpeCY=
 github.com/dustin/go-humanize v1.0.1/go.mod h1:Mu1zIs6XwVuF/gI1OepvI0qD18qycQx+mFykh5fBlto=
 github.com/google/pprof v0.0.0-20260802141513-ef3492d7dac3 h1:LMLX+LgTNWpfvCBdFebv6EsYotImrt/Ppc5cXIriCSo=

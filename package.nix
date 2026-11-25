@@ -6,7 +6,7 @@ buildGoModule {
   src = lib.cleanSource ./.;
 
   # Run `nix build` after changing go.mod/go.sum: it fails with the hash to put here.
-  vendorHash = lib.fakeHash;
+  vendorHash = "sha256-tELX+boPo5/1ZeScKSkrKP2CZKE8O+px8EDgHOQ+h2I=";
 
   env.CGO_ENABLED = 0;
   ldflags = [ "-s" "-w" ];
